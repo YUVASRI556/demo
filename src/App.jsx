@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  return <h1>My first deployment
+  return <h1>My first app
 
   </h1>
 }
